@@ -93,7 +93,7 @@ Start the Tomcat server.
 Step 5: Access the Application :
 Open your browser and go to:
 
-http://localhost:8080/HotelManagementSystem/
+http://localhost:8080/CollegeFeeWebApp/
 This will open your homepage with modules like Add New Reservation, Update Reservation, Cancel Reservation, View All Reservations, and Generate Reports — as seen in the UI.
 
 📸 Screenshots :
